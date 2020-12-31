@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working as Sr. Software Engineer.
+- 👯 I’m looking to collaborate.
+- 📫 How to reach me: [mrasif.in](https://mrasif.in)
+
 <!--
 **mrasif/mrasif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
