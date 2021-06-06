@@ -18,3 +18,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 𝗦𝘁𝗮𝘁𝘀
+
+<!--[![mrinjamul](https://github-profile-trophy.vercel.app/?username=mrinjamul)]()-->
+
+<a href="https://github.com/mrasif">
+    <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=mrasif&show_icons=true&theme=tokyonight&count_private=true" alt="Top languages" />
+</a>
+<br/>
