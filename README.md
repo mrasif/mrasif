@@ -19,6 +19,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## Contribution Graph
+![snake svg](https://github.com/mrasif/mrasif/blob/dist/github-contribution-grid-snake.svg)
+
 ## 𝗦𝘁𝗮𝘁𝘀
 
 <!--[![mrinjamul](https://github-profile-trophy.vercel.app/?username=mrinjamul)]()-->
