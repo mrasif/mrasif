@@ -28,10 +28,10 @@ Here are some ideas to get you started:
 
 <a href="https://github.com/mrasif">
     <img
-    height="180em"
+    height="175em"
     src="https://github-readme-stats.vercel.app/api?username=mrasif&show_icons=true&theme=tokyonight&count_private=true" alt="mrasif's Stats" />
     <img
-    height="180em"
+    height="175em"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrasif&theme=tokyonight&layout=compact"
     alt="Top languages" />
 </a>
