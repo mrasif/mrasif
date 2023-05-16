@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 ## Contribution Graph
 ![snake svg](https://github.com/mrasif/mrasif/blob/dist/github-contribution-grid-snake.svg)
 
-## 𝗦𝘁𝗮𝘁𝘀
+<!--## 𝗦𝘁𝗮𝘁𝘀-->
 
 <!--[![mrinjamul](https://github-profile-trophy.vercel.app/?username=mrinjamul)]()-->
 
-<a href="https://github.com/mrasif">
+<!--<a href="https://github.com/mrasif">
     <img
     height="175em"
     src="https://github-readme-stats.vercel.app/api?username=mrasif&show_icons=true&theme=tokyonight&count_private=true" alt="mrasif's Stats" />
@@ -34,5 +34,5 @@ Here are some ideas to get you started:
     height="175em"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrasif&theme=tokyonight&layout=compact"
     alt="Top languages" />
-</a>
+</a>-->
 <br/>
