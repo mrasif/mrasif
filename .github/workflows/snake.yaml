@@ -6,8 +6,8 @@ name: Generate Snake
 
 on:
   schedule:
-    # every 12 hours
-    - cron: "0 */12 * * *"
+    # every mid night
+    - cron: "0 0 * * *"
 
   # This command allows us to run the Action automatically from the Actions tab.
   workflow_dispatch:
@@ -38,14 +38,6 @@ jobs:
 
       # show the status of the build. Makes it easier for debugging (if there's any issues).
       - run: git status
-
-      # Push the changes
-      # - name: Push changes
-      #  uses: ad-m/github-push-action@master
-      #  with:
-      #    github_token: ${{ secrets.GITHUB_TOKEN }}
-      #    branch: main
-      #    force: true
 
       - uses: crazy-max/ghaction-github-pages@v4
         with:
